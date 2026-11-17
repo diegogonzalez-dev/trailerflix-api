@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (credenciales de base de datos y puerto)
+.env
+.env.local
+
+# Logs de sistema y errores
+npm-debug.log*
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuraciones locales de editores
+.vscode/
+.idea/
